@@ -23,6 +23,7 @@ target/
 .idea/**/dbnavigator.xml
 .idea/**/misc.xml
 .idea/**/vcs.xml
+.idea/**/codeStyleConfig.xml
 *.iws
 *.iml
 *.ipr
